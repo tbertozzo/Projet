@@ -10,7 +10,3 @@ def fonction_test():
 
 
 print(fonction_test())
-
-aaaa 
-
-aa
